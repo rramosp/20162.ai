@@ -41,5 +41,6 @@ Tendrás que entregar un PDF con tu reporte de seguimiento del curso, incluyendo
     W07   Feb13 - Feb17                             ||                            Feb17 NOTA FINAL
 
 
-
-
+    PSETS/MOOC: Clase taller dedicada a la resolución de los problemsets, realización del MOOC y dudas en general
+    QUIZPREP:   Clase preparatoria para el correspondiente QUIZ
+    AI TOPICS:  Clase de divulgación general para presentar o discutir distintos temas de inteligencia artificial
